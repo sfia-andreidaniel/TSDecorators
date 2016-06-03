@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "target": "es5",
+    "sourceMap": false,
+    "outFile": "main.js",
+    "experimentalDecorators": true,
+    "noImplicitUseStrict": false
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

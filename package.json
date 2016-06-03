@@ -1,0 +1,11 @@
+{ "name": "TSdecorators",
+  "description": "typescript decorators test",
+  "version": "1.9.9",
+  "devDependencies": {
+    "typescript": "~1.8.*"
+  },
+  "scripts": {
+    "main": "c:/bin/node-nightly/node.exe ./main.js"
+  },
+  "main": "main.js"
+}
